@@ -19,3 +19,12 @@ Zi ying Member 3 (Publicity)
 - Improvement after feedback:My first commit didn't work because the file was an empty placeholder and my content wasn't saved into it. I learned to check `git status` and `git diff --staged` before committing.
 - Conflict I resolved:My branch and main both changed the organiser line. I kept everyone already accepted on main and added Member 3 at the end, then removed the conflict markers.
 - Skill to practise further:Reading `git log --graph` output and understanding merge commits.
+
+
+Christina Member 4 (Logistics)
+
+- A Git task I can now do independently: Creating a branch, committing and pushing it to GitHub.
+- A useful review comment I gave or received:I reviewed the publicity plan and suggested adding the date and venue to the poster message. It was useful because it linked their document to my logistics file.
+- An improvement I made after feedback: My reviewer suggested adding the venue capacity to logistics.md, because publicity needs it to set a registration limit. I added an estimated capacity to the Venue section.
+- A conflict I resolved and how I decided the final content: Everyone changed the organiser line in event.md, which caused a conflict. I kept every member already listed on main and added myself at the end, so nobody’s entry was lost.
+- A Git skill I'd like to practise more: I’d like more practice with merge conflicts, because it was hard to know which version to keep until I read the markers carefully.
