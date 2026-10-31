@@ -12,6 +12,13 @@ Rui Min (Member 1):
 4. I encountered a merge conflict and resolved it by removing the line from my branch that was creating the conflict, and instead copy pasted the current line in main and appened on it.
 5. one git skill i would like to practise futher is using the terminal to stage, commit and push inseatd of using VS code featires
 
+Ada (Member 2):
+1. one git task i can now complete independently is solving conflicts
+2. one useful review i gave was reviewing a pull request by my members and giving remarks such as well done
+3. an improvement made was staying more organised
+4. 1 conflict i resolved was everyone wanting to modify the same file and how i decided the final content was discussing with my members on what should the agreed final content be which is appending all our modifications together
+5. 1 git skill i would like to practise further is knowing and memorising all the different commands for git as the ones that  i know of now are the basics one, and to try to tell the difference between some commands e.g. git fetch origin vs git pull origin.
+
 Zi ying Member 3 (Publicity)
 
 - Git task I can now do independently:Create a branch, stage, commit and push my work, then open a pull request.
